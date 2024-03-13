@@ -1,0 +1,11 @@
+pyotp
+bin
+pyotp-2.9.0.dist-info
+pypng-0.20220715.0.dist-info
+qrcode
+qrcode-7.4.2.dist-info
+share
+typing_extensions-4.10.0.dist-info
+typing_extensions.py
+__pycache__
+png.py
